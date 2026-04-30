@@ -10,7 +10,7 @@ Project Lucia is a next-generation AI-powered cybersecurity web application desi
 - Generate strong passwords using words, numbers, and symbols
 - Multiple modes: Normal, Passphrase, Ultra Secure, System
 - Cryptographically secure randomness (CSPRNG)
-- Character transformations (leet: a → @, e → 3, etc.)
+- Character transformations
 - Adjustable length and batch generation
 - Base32 / Base64 encoding options
 - Estimated crack time display (e.g., years, centuries)
@@ -21,7 +21,7 @@ Project Lucia is a next-generation AI-powered cybersecurity web application desi
 - Real-time password strength analysis
 - Detects weak patterns (e.g., sequential, repeated, common passwords)
 - Provides suggestions to improve security
-- Entropy-based evaluation (planned enhancement)
+- Entropy-based evaluation
 
 ---
 
@@ -60,7 +60,7 @@ Project Lucia is a next-generation AI-powered cybersecurity web application desi
 
 - Cyberpunk-inspired design with neon effects
 - Glassmorphism interface
-- Animated Lucia avatar (idle motion, reactions)
+- Animated Lucia avatar
 - Particle background and glow effects
 - JetBrains Mono typography
 - Fully responsive (mobile, tablet, desktop)
@@ -98,7 +98,7 @@ Project Lucia is a next-generation AI-powered cybersecurity web application desi
 
 - Advanced entropy calculation system
 - Real-world crack time simulation (CPU / GPU)
-- Enhanced Lucia AI (voice + smarter responses)
+- Enhanced Lucia AI
 - Password history & session-based security
 - Improved breach detection intelligence
 
